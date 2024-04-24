@@ -218,7 +218,8 @@ The methods are not thread-safe and should be called before running the strategy
 
 | Name                                                                      | Description                                                     |
 |---------------------------------------------------------------------------|-----------------------------------------------------------------|
-| [evsamsonov/tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) | It uses Tinkoff Invest API https://tinkoff.github.io/investAPI/ |
+| [evsamsonov/tinkoff-broker](https://github.com/evsamsonov/tinkoff-broker) | It uses [Tinkoff Invest API](https://tinkoff.github.io/investAPI/) |
+| [evsamsonov/finam-broker](https://github.com/evsamsonov/finam-broker) | It uses [Finam Trade API](https://finamweb.github.io/trade-api-docs/)  |
 
 ## What's next?
 
